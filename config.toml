@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nel417.github.io/blog2/'
 languageCode = 'en-us'
 title = 'Garbage In Garbage Out'
 theme = "smigle"
